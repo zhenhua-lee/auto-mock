@@ -1,6 +1,6 @@
 {
   "name": "auto-mock",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "a method to mock data",
   "main": "index.js",
   "scripts": {
