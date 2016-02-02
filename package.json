@@ -1,6 +1,6 @@
 {
   "name": "auto-mock",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "前后端分离中用于数据mock",
   "main": "index.js",
   "scripts": {
