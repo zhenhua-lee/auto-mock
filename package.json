@@ -1,7 +1,7 @@
 {
   "name": "auto-mock",
   "version": "0.0.2",
-  "description": "前后端分离中用于数据mock",
+  "description": "a method to mock data",
   "main": "index.js",
   "scripts": {
     "start": "node test/server.js",
