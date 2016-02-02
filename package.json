@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "ssh://git@git.sankuai.com/~lizhenhua02/mock-data.git"
+    "url": "git@github.com:zhenhua-lee/auto-mock.git"
   },
   "author": "",
   "license": "ISC",
